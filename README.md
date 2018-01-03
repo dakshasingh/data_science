@@ -7,4 +7,3 @@ Data scientist is a person employed to analyse and interpret complex digital dat
 In addition to possesing the "hard skills" of being quantitative and technically focused. Data Scientists also have versatile communication and collaboration skills, and an inate curiosity for exploring and experimenting with data. They also tend to be skeptical people,in that they are likely to askalot of questions aroundthe viabilityof a given solution and whether it willreally work. These behavioral traits are what seperate some one who can work with others to use data to drive change.
 
 
-Basic statistics
